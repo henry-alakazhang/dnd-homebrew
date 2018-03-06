@@ -15,18 +15,14 @@ At 3rd, 6th, 11th and 17th level, choose two of the following disciplines. Disci
 
 ### 3rd level
 - **Become the Teapot**: Cast Absorb Elements
-- **Enduring Mountain Stance** (Earth): Dodge action makes you immovable.
-- **Unrelenting Flames** (Fire): Reroll 1’s on damage dice.
-- **Dance Across the Lake (Water): You gain a swim speed equal to half your speed.
-- **Effortless Step** (Air): Jump higher and further
 - **Patient Badger Listens** (Earth): Gain tremorsense
 - **Fangs of the Fire Snake** (Fire): +5ft. reach when attacking, spend ki to deal extra fire damage.
 - **Water Whip** (Water): Deal damage to target, pull or knock prone.
 - **Fist of Unbroken Air** (Air): Increase range of unarmed strike, hit target is pushed and knocked prone
 - **Rumbling Badger** (Earth): Cast earth tremor.
 - **Cleansing Flow** (Water): Cast cure wounds.
-- **Gone with the Wind (Air): Cast fog cloud.
-- **Sweeping Cinder Strike: Cast burning hands.
+- **Gone with the Wind** (Air): Cast fog cloud.
+- **Sweeping Cinder Strike** (Fire): Cast burning hands.
 
 ### 6th level
 - **Impenetrable Iron Tortoise Shell** (Earth): Deflect Missiles ability now can be used on any ranged/melee attack within 30 feet.
@@ -39,9 +35,8 @@ At 3rd, 6th, 11th and 17th level, choose two of the following disciplines. Disci
 - **Clench of the Northern Wind** (Air): Cast hold person.
 
 ### 11th level
-Fist of the Elements: Cast elemental weapon, choosing either cold, fire, or thunder.
-Earth Reaches for Sky: Cast erupting earth*.
-Flames of the Phoenix: Cast fireball.
-Let Go Your Earthly Tether: Cast fly.
-Tsunami: Cast tidal wave*.
-Eternal Mountain Defense: Cast stoneskin, targeting yourself.
+- **Fist of the Elements**: Cast elemental weapon, choosing either cold, fire, or thunder.
+- **Earth Reaches for Sky** (Earth): Cast erupting earth.
+- **Flames of the Phoenix** (Fire): Cast fireball.
+- **Let Go Your Earthly Tether** (Air): Cast fly.
+- **Tsunami** (Water): Cast tidal wave.
